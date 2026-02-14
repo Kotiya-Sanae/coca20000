@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "COCA20000",
-  description: "COCA",
+  description: "Corpus of Contemporary American English",
 };
 
 export default function RootLayout({
